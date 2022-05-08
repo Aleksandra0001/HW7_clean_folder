@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+clean_folder_boldysheva/__init__.py
+clean_folder_boldysheva/folder_parser.py
+clean_folder_boldysheva/main.py
+clean_folder_boldysheva/normalize.py
+clean_folder_boldysheva.egg-info/PKG-INFO
+clean_folder_boldysheva.egg-info/SOURCES.txt
+clean_folder_boldysheva.egg-info/dependency_links.txt
+clean_folder_boldysheva.egg-info/entry_points.txt
+clean_folder_boldysheva.egg-info/top_level.txt
